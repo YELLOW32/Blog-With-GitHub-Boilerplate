@@ -9,9 +9,9 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 template = {
-    "name": "Galileo",
+    "name": "YELLOW32",
     "type": "local",
-    "path": "../Galileo"
+    "path": "../YELLOW32"
 }
 enable_jsdelivr = {
     "enabled": False,
