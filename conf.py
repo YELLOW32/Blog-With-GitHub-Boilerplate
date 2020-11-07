@@ -58,12 +58,7 @@ nav = [
     }
 ]
 
-social_links = [
-    {
-        "name": "Twitter",
-        "url": "https://twitter.com/",
-        "icon": "gi gi-twitter"
-    },
+social_links = 
     {
         "name": "GitHub",
         "url": "https://github.com/YELLOW32",
