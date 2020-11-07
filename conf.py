@@ -35,7 +35,7 @@ external_links = [
         "brief": "🏄‍ Go My Own FUCKING Way."
     },
     {
-        "name": "黄色 計劃",
+        "name": "黄色計劃",
         "url": "https://www.github.com/YELLOW32",
         "brief": "YELLOW 32的主页。"
     }
